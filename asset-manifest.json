@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FantasyCharacterForge/static/css/main.ac4466a2.css",
-    "main.js": "/FantasyCharacterForge/static/js/main.dd179d3d.js",
+    "main.js": "/FantasyCharacterForge/static/js/main.fa917cf7.js",
     "static/js/787.1f314ece.chunk.js": "/FantasyCharacterForge/static/js/787.1f314ece.chunk.js",
     "static/media/Old_Fenris.ttf": "/FantasyCharacterForge/static/media/Old_Fenris.cec7b7915132b4fb6a46.ttf",
     "static/media/background.jpg": "/FantasyCharacterForge/static/media/background.d7574c29848e0ad58ad9.jpg",
@@ -16,11 +16,11 @@
     "static/media/plus.png": "/FantasyCharacterForge/static/media/plus.94db7db4356fed203529.png",
     "index.html": "/FantasyCharacterForge/index.html",
     "main.ac4466a2.css.map": "/FantasyCharacterForge/static/css/main.ac4466a2.css.map",
-    "main.dd179d3d.js.map": "/FantasyCharacterForge/static/js/main.dd179d3d.js.map",
+    "main.fa917cf7.js.map": "/FantasyCharacterForge/static/js/main.fa917cf7.js.map",
     "787.1f314ece.chunk.js.map": "/FantasyCharacterForge/static/js/787.1f314ece.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac4466a2.css",
-    "static/js/main.dd179d3d.js"
+    "static/js/main.fa917cf7.js"
   ]
 }
